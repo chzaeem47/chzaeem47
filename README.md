@@ -1,5 +1,3 @@
-
-# Tech Stack:
 ### 🛠️ Programming Languages
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
@@ -17,7 +15,8 @@
 
 ### 🎨 UI/UX & Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
-# GitHub Stats:
+
+
 ![](https://github-readme-stats.shion.dev/api?username=chzaeem47&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=chzaeem47&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=chzaeem47&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
