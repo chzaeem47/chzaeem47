@@ -1,6 +1,3 @@
-# About Me:
-Hi, I’m Zaeem, a Computer Science student at Comsats University Sahiwal. Passionate about programming, problem-solving, and full-stack web development. 🌱 💻
-
 
 # Tech Stack:
 ### 🛠️ Programming Languages
