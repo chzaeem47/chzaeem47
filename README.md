@@ -16,6 +16,9 @@
 ### UI/UX & Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
 
+### CMS & Low-Code Development
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-%2392003B.svg?style=flat&logo=elementor&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=flat&logo=woocommerce&logoColor=white)
+
 ---
 
 ![](https://github-readme-stats.shion.dev/api?username=chzaeem47&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
