@@ -23,7 +23,7 @@
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=chzaeem47&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chzaeem47&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chzaeem47&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=chzaeem47&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
