@@ -18,8 +18,3 @@
 
 ### CMS & Low-Code Development
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-%2392003B.svg?style=flat&logo=elementor&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=flat&logo=woocommerce&logoColor=white)
-
-
-![](https://github-readme-stats.shion.dev/api?username=chzaeem47&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/><br/>
-![](https://streak-stats.demolab.com/?user=chzaeem47&theme=highcontrast&hide_border=true)<br/><br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=chzaeem47&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
