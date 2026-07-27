@@ -19,6 +19,6 @@
 ### CMS & Low-Code Development
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-%2392003B.svg?style=flat&logo=elementor&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=flat&logo=woocommerce&logoColor=white)
 
-![](https://streak-stats.demolab.com/?user=chzaeem47&theme=highcontrast&hide_border=true&cache_bust=1722140000)<br/><br/>
-![](https://streak-stats.demolab.com/?user=chzaeem47&theme=highcontrast&hide_border=true)<br/><br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=chzaeem47&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=chzaeem47&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&v=1)<br/><br/>
+![](https://streak-stats.demolab.com/?user=chzaeem47&theme=highcontrast&hide_border=true&v=1)<br/><br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chzaeem47&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=1)
