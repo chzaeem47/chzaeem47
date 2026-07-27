@@ -18,5 +18,3 @@
 
 ### CMS & Low-Code Development
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-%2392003B.svg?style=flat&logo=elementor&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=flat&logo=woocommerce&logoColor=white)
-
-[![GitHub Streak](https://demolab.com)
